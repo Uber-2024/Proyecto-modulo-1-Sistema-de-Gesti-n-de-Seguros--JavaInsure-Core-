@@ -1,0 +1,10 @@
+LIFE,C-1001,250000,Ana Torres,45
+LIFE,C-1002,180000,Carlos Mendez,67
+LIFE,C-1003,320000,Lucia Ramirez,59
+CAR,C-2001,28000,Mateo Rojas,2022,38
+CAR,C-2002,15000,Sofia Herrera,2013,62
+CAR,C-2003,42000,Diego Castro,2024,31
+HOME,C-3001,220000,Valentina Diaz,false,42
+HOME,C-3002,350000,Andres Gomez,true,71
+HOME,C-3003,175000,Camila Perez,false,28
+HOME,C-3004,490000,Julian Silva,true,55
